@@ -1,0 +1,28 @@
+.container__ {
+    padding: 20px;
+    margin: 13px 0; 
+    font-family: 'Caveat Brush', cursive;
+    font-size: 35px;
+}
+
+.container_detail {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Caveat Brush', cursive;
+    margin: 30px 30px;
+}
+
+.container__detail_e {
+    border: 2px solid pink;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 26px 0; 
+    font-family: 'Caveat Brush', cursive;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 40px;
+    color: palevioletred;
+}
